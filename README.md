@@ -30,7 +30,7 @@ The converter currently supports the following currencies:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/currency-converter-java.git
+    git clone https://github.com/silvosarogil/currency-converter-java.git
     ```
 2. **Make sure to have already install jdk**:
     ```bash
